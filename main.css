@@ -1,0 +1,11 @@
+.container{
+    background-color:white;
+      border-radius:25px;
+      padding:20px;
+}
+.jumbotron{
+    text-align:center;
+}
+body{
+    background-image: url(http://lorempixel.com/1500/900)
+}
